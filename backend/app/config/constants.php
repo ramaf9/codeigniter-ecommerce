@@ -86,3 +86,7 @@ define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
 define('secret','ThIsZmyZ3cr35tz');
+
+/* message error response */
+define('err_auth','No authorization');
+define('err_token','No token was found');
